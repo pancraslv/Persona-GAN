@@ -3,7 +3,7 @@
 ## Environments
 ```
 python==3.6
-torch==1.3.1
+torch==1.2.0
 ```
 
 ## Dataset
